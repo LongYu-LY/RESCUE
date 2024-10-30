@@ -1,3 +1,3 @@
-# RESCUE
+# ReSCUE
 Advancing Practical Low-Light Image Enhancement: Data Synthesis and Beyond
 # We will release our code soon...
